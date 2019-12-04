@@ -1,4 +1,4 @@
-# Oxford Comma List Formatter
+the array is already defined in # Oxford Comma List Formatter
 
 ## Objectives
 
